@@ -19,3 +19,5 @@ module StateMachineTests =
         machine.Run()
         machine.Continue()
         Assert.Pass()
+
+
